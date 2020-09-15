@@ -2,6 +2,8 @@
 Hi everyone! This is my respository where I store all my code and research within Quantitative Finance with the programming languages: C++, R.
 Some of the things you can find here are trading strategies, research and tutorials on topics such as algorithmic trading, market microstructure analysis and machine learning, amongst others.
 
+Below is a list explaining all the topics covered within the repository:
+
 ## Technical Analysis (TA)
 These are the documents starting with 'TA'. The files with those initials contain analysis of strategies and research done utilising some of the most poplar and powerful technical indicators. 
 
