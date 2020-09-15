@@ -6,6 +6,12 @@ exchanges: [{"eid":"Futures_OKCoin","currency":"BTC_USD","stocks":0.1,"fee":[0.0
 args: [["InstrumentB","quarter"],["NPeriod",200],["LeavePeriod",100],["AddMax",3],["StopLoss",20],["StopWin",50],["OpenAmount",2]]
 */
 
+/* Strategy Idea:
+- Spread is Positive -> sell forward contracts, buy recent contracts.
+- Spread negative -> buy forward contracts, sell recent contracts.
+*/
+
+
 enum State {
     STATE_NA,
     STATE_IDLE,
