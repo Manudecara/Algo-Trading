@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jul 26 09:26:05 2021
-
-@author: manu
-"""
-
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
