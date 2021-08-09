@@ -45,4 +45,4 @@ Common algorithms: Multilayer Perceptron Neural Network (MLPNN), Convolutional N
 High-frequency trading is a type of algorithmic trading characterized by high speeds, high turnover rates, and high order-to-trade ratios that leverages high-frequency financial data and electronic trading tools. The files including 'HFT' will contain amongst other things: market microstructure analysis, HFT strategies, tutorials on packages that help explore the HFT world.
 
 ## General Quant Finance (GQF):
-In here you will find general code on Quantitative Finance such as various mathematical models including: Monte Carlo sumilations, Markov Chain processes, Pricing, Portfolio Optimization, Risk Management, etc.
+In here you will find general code on Quantitative Finance such as: Monte Carlo sumilations, Markov Chain processes, Risk Management, Derivative Calcultions, etc.
